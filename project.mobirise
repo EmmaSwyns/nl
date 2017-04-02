@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emma Swyns Portfolio 2017",
-    "currentPage": "index.html",
+    "currentPage": "Tekeningen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -381,16 +381,6 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nek-800x1089.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nek.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/schetsfilmpjes-800x1208.png",
-                "image": "@PROJECT_PATH@/assets/images/schetsfilmpjes.gif",
                 "caption": "Type caption here",
                 "active": true
               }
