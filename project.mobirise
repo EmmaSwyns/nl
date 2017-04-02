@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emma Swyns Portfolio 2017",
-    "currentPage": "index.html",
+    "currentPage": "Tekeningen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,7 +23,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 13,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "true",
+    "google-analytics": "",
+    "cookiesAlert": ""
   },
   "pages": {
     "index.html": {
@@ -297,7 +301,7 @@
               },
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/tekening-1-zwart-kleiner-2000x3004.jpg",
+                "image": "@PROJECT_PATH@/assets/images/tekening-1-zwart-kleiner.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": false,
