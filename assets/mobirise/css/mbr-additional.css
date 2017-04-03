@@ -492,7 +492,6 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 
-
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -554,12 +553,6 @@ h6,
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-item[aria-expanded="true"] {
   color: #000000!important;
-}
-#header1-f .mbr-section-title {
-  font-family: 'Raleway', sans-serif;
-  font-size: 30px;
-  color: #000000;
-  text-align: right;
 }
 
 #menu-a .hide-buttons .nav-btn {
