@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emma Swyns Portfolio 2017",
-    "currentPage": "grafisch ontwerp.html",
+    "currentPage": "grafischontwerp.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -624,7 +624,7 @@
         }
       ]
     },
-    "grafisch ontwerp.html": {
+    "grafischontwerp.html": {
       "settings": {
         "title": "Grafisch Ontwerp",
         "meta_descr": "1"
