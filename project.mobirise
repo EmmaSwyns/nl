@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Emma Swyns Portfolio 2017",
-    "currentPage": "Tekeningen.html",
+    "currentPage": "grafischontwerp.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -560,6 +560,16 @@
                 "active": false
               },
               {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ria-pull-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ria-pull.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -606,6 +616,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-8569-3456x2304-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-8569-3456x2304-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/knie-rika-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/knie-rika.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amber-been-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amber-been.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/amber-benen-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/amber-benen.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/hand-alex-800x599.jpg",
+                "image": "@PROJECT_PATH@/assets/images/hand-alex.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
@@ -890,6 +950,36 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-04-25-om-582x868-800x1193.png",
                 "image": "@PROJECT_PATH@/assets/images/schermafbeelding-2016-04-25-om-582x868.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ella-fitz-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ella-fitz.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ella-fitz-1-800x735.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ella-fitz-1.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ella-fitz-2-800x551.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ella-fitz-2.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
